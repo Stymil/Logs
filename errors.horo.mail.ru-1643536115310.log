@@ -1,0 +1,63 @@
+horo.mail.ru/:1          GET https://mcdn.imgsmail.ru/fonts/roboto/1.0.0/roboto.deg.css net::ERR_NAME_NOT_RESOLVED
+(index):504          GET https://mcdn.imgsmail.ru/js/jquery/3.4.1/jquery-3.4.1.min.js net::ERR_NAME_NOT_RESOLVED
+horo.mail.ru/:194          GET https://relap.io/v7/relap.js net::ERR_NAME_NOT_RESOLVED
+common_base.js:2 Uncaught TypeError: Cannot read properties of undefined (reading 'ajax')
+    at common_base.js:2:202170
+    at Object.<anonymous> (common_base.js:2:209138)
+    at n (common_base.js:2:358)
+    at Module.<anonymous> (common_base.js:2:459748)
+    at n (common_base.js:2:358)
+    at common_base.js:2:1167
+    at common_base.js:2:1178
+    at common_base.js:2:158
+    at common_base.js:2:223
+(anonymous) @ common_base.js:2
+(anonymous) @ common_base.js:2
+n @ common_base.js:2
+(anonymous) @ common_base.js:2
+n @ common_base.js:2
+(anonymous) @ common_base.js:2
+(anonymous) @ common_base.js:2
+(anonymous) @ common_base.js:2
+(anonymous) @ common_base.js:2
+common.js:2 Uncaught TypeError: Cannot read properties of undefined (reading 'Tools')
+    at common.js:2:66314
+    at Object.163 (common.js:2:69372)
+    at n (common.js:2:358)
+    at Module.512 (common.js:2:129137)
+    at n (common.js:2:358)
+    at 13 (common.js:2:1167)
+    at common.js:2:1178
+    at common.js:2:158
+    at common.js:2:223
+(anonymous) @ common.js:2
+163 @ common.js:2
+n @ common.js:2
+512 @ common.js:2
+n @ common.js:2
+13 @ common.js:2
+(anonymous) @ common.js:2
+(anonymous) @ common.js:2
+(anonymous) @ common.js:2
+page-horoscope-index.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'getModel')
+    at page-horoscope-index.js:1:5794
+    at Object.29 (page-horoscope-index.js:1:7710)
+    at s (page-horoscope-index.js:1:358)
+    at Object.28 (page-horoscope-index.js:1:5637)
+    at s (page-horoscope-index.js:1:358)
+    at Module.426 (page-horoscope-index.js:1:15767)
+    at s (page-horoscope-index.js:1:358)
+    at 10 (page-horoscope-index.js:1:1167)
+    at page-horoscope-index.js:1:1178
+    at page-horoscope-index.js:1:158
+(anonymous) @ page-horoscope-index.js:1
+29 @ page-horoscope-index.js:1
+s @ page-horoscope-index.js:1
+28 @ page-horoscope-index.js:1
+s @ page-horoscope-index.js:1
+426 @ page-horoscope-index.js:1
+s @ page-horoscope-index.js:1
+10 @ page-horoscope-index.js:1
+(anonymous) @ page-horoscope-index.js:1
+(anonymous) @ page-horoscope-index.js:1
+(anonymous) @ page-horoscope-index.js:1
